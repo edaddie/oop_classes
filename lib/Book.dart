@@ -1,5 +1,5 @@
-import Book.dart;
-class Book.dart {
+
+class Book{
   String author;
   String title;
   
@@ -9,4 +9,3 @@ class Book.dart {
     print('$author and $title');
   }
 }
-Update main.dart:
