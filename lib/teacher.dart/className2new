@@ -1,0 +1,11 @@
+class Teacher{
+  String name;
+  String subject;
+
+  Teacher (this.name, this.subject);
+
+  void describe() {
+    print('Name: $name, Subject: $subject'};
+          }
+        }
+          
